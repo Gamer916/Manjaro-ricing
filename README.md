@@ -1,4 +1,4 @@
-                                         Welcome to the guide
+  Welcome to the guide
 
 This guide is mostly planned for begginers who wants to customize their linux desktop
 
@@ -16,9 +16,17 @@ Lets begin!
 4) install the given wallpaper up there, apply and refresh the open bar.
 5) set up arc menu as you want.
 6) install cava.
-7) reboot and enjoy.
 
    
 
      you might need to configure forge a bit to match ur style but if u wanna copy
      the config is give up there.
+
+   
+to copy my settings copy the windows.json to /home/manjaro/.config/forge/config and replace with the other
+windows.json
+
+
+
+
+ Now reboot and enjoy!
